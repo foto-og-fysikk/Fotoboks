@@ -18,11 +18,9 @@ const Søgne = [
     ['Søgne/DSC05182.jpg','',''],
     ['Søgne/DSC05177.jpg','',''],
     ['Søgne/DSC05172.jpg','',''],
-    ['Søgne/ikke komprimerte bilder/DSC05679.jpg','',''],
-    ['Søgne/ikke komprimerte bilder/DSC05672.jpg','',''],
-    //['Søgne/DSC05132.jpg','',''],
+    ['Søgne/DSC05679.jpg','',''],
+    ['Søgne/DSC05672.jpg','',''],
     ['Søgne/DSC05115.jpg','',''],
-    ['Søgne/ikke komprimerte bilder/DSC05908.jpg','','']
 
 
 ];
@@ -31,6 +29,7 @@ const Kjellandsheia = [
 
     //['Søgne/DSC_0034.jpg','Bie på blomst',''],
     //['Kjellandsheia/DSC05622.jpg','','19/07-23'],
+    ['Søgne/DSC05908.jpg','',''],
     ['Søgne/DSC_0419.jpg','','02/07-23'],
     //['Søgne/DSC_0017.jpg','','23/06-23'],
     ['Søgne/DSC_0020.jpg','','23/06-23'],
