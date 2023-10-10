@@ -13,14 +13,14 @@ const Søgne = [
     ['Søgne/DSC05804.jpg','',''],
     ['Søgne/DSC05789.jpg','',''],
     ['Søgne/DSC05686.jpg','',''],
-    ['Søgne/DSC05591.jpg','',''],
-    ['Søgne/DSC05585.jpg','',''],
+    
+    //['Søgne/DSC05585.jpg','',''],
     ['Søgne/DSC05182.jpg','',''],
-    ['Søgne/DSC05177.jpg','',''],
+   
     ['Søgne/DSC05172.jpg','',''],
     ['Søgne/DSC05679.jpg','',''],
     ['Søgne/DSC05672.jpg','',''],
-    ['Søgne/DSC05115.jpg','',''],
+    //['Søgne/DSC05115.jpg','',''],
 
 
 ];
@@ -29,7 +29,6 @@ const Kjellandsheia = [
 
     //['Søgne/DSC_0034.jpg','Bie på blomst',''],
     //['Kjellandsheia/DSC05622.jpg','','19/07-23'],
-    ['Søgne/DSC05908.jpg','',''],
     ['Søgne/DSC_0419.jpg','','02/07-23'],
     //['Søgne/DSC_0017.jpg','','23/06-23'],
     ['Søgne/DSC_0020.jpg','','23/06-23'],
@@ -130,16 +129,22 @@ const Sommer = [
 ];
 
 const Høst = [
-    //['Høst/PA300161.jpg','Eika','24/06-23'],
+    
     //['Søgne/DSC_0017.jpg','','23/06-23'],
     //['Søgne/DSC_0034.jpg','Bie på blomst',''],
-    //['Søgne/DSC05783.jpg','',''],
+   
     //['Søgne/DSC05781.jpg','',''],
-    //['Høst/DSC05966.jpg', '','08/10-23'],
+    ['Søgne/DSC05783.jpg','',''],
     
+    ['Høst/PA300161.jpg','Eika','24/06-23'],
+    
+
+    ['Høst/DSC05961-2.jpg', '','08/10-23'],
+    
+    ['Høst/DSC06016-2.jpg', '','08/10-23'],
     ['Høst/DSC05941.jpg', '','08/10-23'],
     ['Høst/DSC05989.jpg', '','08/10-23'],
-    ['Høst/DSC05963.jpg', '','08/10-23'],
+    ['Høst/DSC05963.jpg', 'Kremler','08/10-23'],
     ['Høst/DSC05976.jpg', '','08/10-23'],
     ['Høst/DSC05970.jpg', '','08/10-23'],
     ['Høst/DSC05958.jpg', '','08/10-23'],
@@ -190,7 +195,7 @@ const Homepage = [
 
     ['Forside/PC310281.jpg','Nyttår',''],
     ['Ravnedalen/DSC05299.jpg','','13/07-23'],
-    ['Forside/DSC_0440.jpg','Supermånen i Søgne, dobbeleksponering','03/07-23'],
+    ['Forside/DSC_0440.jpg','Supermånen i Søgne','03/07-23'],
     
 ];
 
