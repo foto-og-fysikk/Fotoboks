@@ -174,7 +174,7 @@ const Portretter = [
 
 const Homepage = [
     ['Forside/P3230501.jpg','Le Havre',''],
-    ['Forside/Ikke komprimerte filer/DSC_0244.jpg','Ingrid & Markus','09/02-23'],
+    ['Forside/DSC_0244.jpg','Ingrid & Markus','09/02-23'],
     
     ['Forside/P5201464.jpg','Uffizi',''],
     ['Forside/P5201508.jpg','Uffizi',''],
