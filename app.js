@@ -153,6 +153,7 @@ projectItems.forEach(function (item) {
           case 'Kjellandsheia': projectData = Kjellandsheia; break;
           case 'Søgne': projectData = Søgne; break;
           case 'Høst': projectData = Høst; break;
+          case 'Vår': projectData = Vår; break;
           default: return; // Exit if none of the above
       }
 
@@ -179,7 +180,6 @@ projectItems.forEach(function (item) {
       switch (itemId) {
           case 'Sommer': projectData = Sommer; break;
           case 'Vinter': projectData = Vinter; break;
-          case 'Vår': projectData = Vår; break;
           
           default: return; // Exit if none of the above
       }

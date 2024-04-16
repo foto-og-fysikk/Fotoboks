@@ -2,6 +2,8 @@
 
 const posts = [];
 
+
+
 const Søgne = [
 
     ['Søgne/DSC05846.jpg','',''],
@@ -98,7 +100,29 @@ const Vinter = [
     
 ];
 
-const Vår = [];
+const Vår = [
+
+    
+    ['Spania/DSC08038.JPG','', '12/04-24, Jardi Botanic Marimurtra'],
+    
+    ['Spania/DSC08058.JPG','', '12/04-24, Mirador de Carlos'], 
+    
+    ['Spania/DSC07686.JPG','', '11/04-24, Platja de l`illa Roja'],
+
+    ['Spania/DSC08036.JPG','','12/04-24, Jardi Botanic Marimurtra'],
+    ['Spania/DSC08030.JPG','', '12/04-24, Jardi Botanic Marimurtra'],
+    
+    ['Spania/DSC08024.jpg','','12/04-24, Jardi Botanic Marimurtra'],
+    ['Spania/DSC08087.jpg','','12/04-24, Jardi Botanic Marimurtra'],    
+   
+    ['Spania/DSC08050.JPG','', '12/04-24, Mirador de Carlos'],
+    ['Spania/DSC08011.jpg','Koi','12/04-24, Jardi Botanic Marimurtra'],
+
+    //['Spania/DSC08101.jpg','','12/04-24, Jardi Botanic Marimurtra'],
+    ['Spania/DSC07534.jpg','','10/04-24, la Sagrada Familia'],
+    ['Spania/DSC07707.jpg', '','11/04-24, Platja de l`illa Roja'],
+
+];
 
 const Sommer = [
 
@@ -126,6 +150,9 @@ const Sommer = [
     ['Portugal/P6040420.jpg','Quinta de Regaleira','04/06-23, Sintra'],
     ['Sommer/P8120040.jpg','Sørenga',''],
     ['Sommer/P5251986.jpg','Santa Maria del Fiore',''],
+
+
+
 ];
 
 const Høst = [
@@ -195,7 +222,11 @@ const Homepage = [
 
     ['Forside/PC310281.jpg','Nyttår',''],
     ['Ravnedalen/DSC05299.jpg','','13/07-23'],
+    
+    ['Spania/DSC07573.jpg','Barcelona', '10/04-24'],
     ['Forside/DSC_0440.jpg','Supermånen i Søgne','03/07-23'],
+    ['Spania/DSC07718.jpg','','11/04-24'],
+    
     
 ];
 
