@@ -120,7 +120,6 @@ const Vår = [
     ['Spania/DSC08011.jpg','Koi','12/04-24, Jardi Botanic Marimurtra'],
 
     //['Spania/DSC08101.jpg','','12/04-24, Jardi Botanic Marimurtra'],
-    ['Spania/DSC07534.jpg','','10/04-24, la Sagrada Familia'],
     ['Spania/DSC07707.jpg', '','11/04-24, Platja de l`illa Roja'],
 
 ];
